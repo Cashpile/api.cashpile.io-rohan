@@ -1,6 +1,8 @@
 # Node API Docs
-## routes:
-- /createpile/:adminemail
+
+## Routes
+
+- /createpile/:adminEmail
     creates a pile and returns pile ID given admin email
 - /adduser/:pileID/:userEmail/:sumToPay
     adds user to pile
